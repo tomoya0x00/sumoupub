@@ -6,6 +6,6 @@ sumoupub
 ライセンス
 ----------
 Copyright &copy; 2013 Tomoya Miwa  
-Licensed under the [NYSL Version 0.9982, Version 2.0][NYSL]
+Licensed under the [NYSL, Version 0.9982][NYSL]
  
 [NYSL]: http://www.kmonos.net/nysl/
